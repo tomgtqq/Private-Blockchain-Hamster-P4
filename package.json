@@ -1,0 +1,29 @@
+{
+  "name": "es6_private_blockchain",
+  "version": "1.0.0",
+  "description": "This is Project 2, Private Blockchain, in this project I created the classes to manage my private blockchain, to be able to persist my blochchain I used LevelDB.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tom",
+  "license": "ISC",
+  "dependencies": {
+    "bitcoinjs-lib": "^5.0.3",
+    "bitcoinjs-message": "^2.0.0",
+    "body-parser": "^1.18.3",
+    "crypto-js": "^3.1.9-1",
+    "express": "^4.16.4",
+    "hex2ascii": "0.0.3",
+    "level": "^4.0.0",
+    "morgan": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomgtbst/Private-Blockchain-Hamster.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomgtbst/Private-Blockchain-Hamster/issues"
+  },
+  "homepage": "https://github.com/tomgtbst/Private-Blockchain-Hamster.git#readme"
+}
